@@ -5,9 +5,9 @@ cls
 goto Start
 :Start
 color 0c
-title hack menu by phant0m
+title hack menu by Soap
 echo ----------------------------------------------------------------
-echo               Welcome to hacker menu by phant0m
+echo               Welcome to hacker menu by Soap
 echo ----------------------------------------------------------------
 echo                       hacker menu 0.0.1.4568
 echo            ___________________________________
@@ -25,7 +25,7 @@ if %input%==6 goto F if NOT goto Start2
 :A
 cls
 @echo off
-Title botnet by phant0m
+Title botnet by Soap
 color 0c
 echo Enter the IP you would like to boot
 set input=
@@ -53,7 +53,7 @@ exit
 :B
 cls
 @echo off
-title PC Cleanup Utility by phant0m
+title PC Cleanup Utility by Soap
 
 :menu
 cls
